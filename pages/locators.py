@@ -11,7 +11,7 @@ class AuthPageLocators():
 
 	AUTH_URL = "https://b2c.passport.rt.ru"
 
-  AUTH_HEADER = (By.XPATH, "//div[contains(@class,"main-header__logo-container")]/..")
+        AUTH_HEADER = (By.XPATH, "//div[contains(@class,"main-header__logo-container")]/..")
 
 	AUTH_TITLE_FORM = (By.XPATH, "//h1[contains(@class,'card-container__title')]")
 
@@ -78,7 +78,7 @@ class RegPageLocators():
 
 	REG_INPUT_BOX_PASSWORD_CONFIRM = (By.XPATH, '//*[@id="password-confirm"]')
 
-  REG_CONTINUE_BUTTON = (By.XPATH, "//button[@type="submit" and @name="register"]")
+        REG_CONTINUE_BUTTON = (By.XPATH, "//button[@type="submit" and @name="register"]")
                                 
 	REG_FIRST_NAME_VALIDATION_MESSAGE = (By.XPATH, "/html/body/div[1]/main/section[2]/div/div/div/form/div[1]/div[1]/span")
 
