@@ -1,3 +1,3 @@
-phone number - 9172450538
-login - F[vtnrf-1972
+phone number - +79172450538
+login - Fkvtnrf-1972
  email-tuktarov-1972@yandex.ru
